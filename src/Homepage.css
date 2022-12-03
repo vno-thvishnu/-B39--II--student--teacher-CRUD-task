@@ -1,0 +1,32 @@
+.home{
+    margin-top: -20px;
+
+}
+
+.topbar{
+    background-image: linear-gradient(to right,#1e7afa ,#fd1e4d);
+    height: 150px;
+    margin-top: -25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.sidebar{
+    width: 250px;
+    background-color:#212529;
+
+    height: 100vh;
+    flex: 2;
+    
+}
+.comp{
+    display: flex;
+
+}
+.content{
+    flex: 8;
+}
+.teacher{
+    margin-top: 10px;
+}
